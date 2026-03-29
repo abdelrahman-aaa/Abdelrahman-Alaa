@@ -47,7 +47,12 @@
 - Interactive UX  
 
 ---
-
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahman-aaa&show_icons=true&theme=radical&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman-aaa&theme=radical&hide_border=true" />
+</p>
 
 
 ---
