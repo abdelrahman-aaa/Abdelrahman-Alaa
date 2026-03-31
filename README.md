@@ -71,7 +71,35 @@ A simple social media platform where users can share posts and interact with con
  - REST API Integration
  
 ---
+🧠 Quiz App
 
+🔗 Live Demo: https://quiz-app-lyart-beta-23.vercel.app
+🔗 GitHub:https://github.com/abdelrahman-aaa/Quiz--App
+
+---
+📌 Description:
+An interactive quiz application that allows users to answer multiple-choice questions, track their progress, and view their final score in a clean and engaging interface.
+
+---
+⚙️ Features:
+- Multiple-choice questions
+- Real-time answer selection
+- Score calculation
+- Progress tracking
+- Timer for each quiz
+- Restart quiz functionality
+- Responsive design
+- Loading states
+- Error handling
+
+---
+
+🛠 Tech Stack:
+- JavaScript
+- Tailwind CSS
+- REST API Integration
+
+---
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/abdelrhman-alaa-5a19323a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
