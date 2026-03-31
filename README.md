@@ -46,29 +46,29 @@ A simple social media platform where users can share posts and interact with con
 
 
 ⚙️ Features:
- • Sign Up / Sign In
- • Create, Update, Delete Posts
- • Create, Update, Delete Comments
- • Like / Unlike Posts
- • Infinite Scroll
- • Skeleton Loading
- • Error Handling
- • Profile Picture Update
- • Change Password
- • Secure Token Handling
+ - Sign Up / Sign In
+ - Create, Update, Delete Posts
+ - Create, Update, Delete Comments
+ - Like / Unlike Posts
+ - Infinite Scroll
+ - Skeleton Loading
+ - Error Handling
+ - Profile Picture Update
+ - Change Password
+ - Secure Token Handling
  
  ---
 
 
  
 🛠 Tech Stack:
- • React (Vite)
- • React Router
- • TanStack Query
- • Axios
- • HeroUI / Tailwind css
- • Environment Variables
- • REST API Integration
+ - React (Vite)
+ - React Router
+ - TanStack Query
+ - Axios
+ - HeroUI / Tailwind css
+ - Environment Variables
+ - REST API Integration
  
 ---
 
