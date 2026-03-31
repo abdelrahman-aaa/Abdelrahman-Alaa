@@ -34,10 +34,17 @@
 
 🔗 Live Demo:social-hub-app-iota.vercel.app
 🔗 GitHub:[ your-github-link](https://github.com/abdelrahman-aaa/Social-Hub-App)
+
 ---
+
+
 📌 Description:
 A simple social media platform where users can share posts and interact with content.
+
+
 ---
+
+
 ⚙️ Features:
  • Sign Up / Sign In
  • Create, Update, Delete Posts
@@ -49,7 +56,11 @@ A simple social media platform where users can share posts and interact with con
  • Profile Picture Update
  • Change Password
  • Secure Token Handling
+ 
  ---
+
+
+ 
 🛠 Tech Stack:
  • React (Vite)
  • React Router
@@ -58,6 +69,7 @@ A simple social media platform where users can share posts and interact with con
  • HeroUI / Tailwind css
  • Environment Variables
  • REST API Integration
+ 
 ---
 
 ## 🌐 Connect With Me
