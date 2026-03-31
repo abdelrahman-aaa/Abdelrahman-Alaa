@@ -32,7 +32,7 @@
 ## 🚀 Featured Projects
 💬 Social Media App
 
-🔗 Live Demo:social-hub-app-iota.vercel.app
+🔗 Live Demo: social-hub-app-iota.vercel.app -
 🔗 GitHub:[ your-github-link](https://github.com/abdelrahman-aaa/Social-Hub-App)
 
 ---
