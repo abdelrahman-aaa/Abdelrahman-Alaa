@@ -36,10 +36,37 @@
 - Responsive modern UI
 - API integration & state management  
 
-### 💬 Social App
-- Authentication system
-- Post interactions  
-- Clean UI  
+
+
+
+💬 Social Media App
+
+🔗 Live Demo:social-hub-app-iota.vercel.app
+🔗 GitHub:[ your-github-link](https://github.com/abdelrahman-aaa/Social-Hub-App)
+
+📌 Description:
+A simple social media platform where users can share posts and interact with content.
+
+⚙️ Features:
+ • Sign Up / Sign In
+ • Create, Update, Delete Posts
+ • Create, Update, Delete Comments
+ • Like / Unlike Posts
+ • Infinite Scroll
+ • Skeleton Loading
+ • Error Handling
+ • Profile Picture Update
+ • Change Password
+ • Secure Token Handling
+
+🛠️ Tech Stack:
+ • React (Vite)
+ • React Router
+ • TanStack Query
+ • Axios
+ • HeroUI / Tailwind css
+ • Environment Variables
+ • REST API Integration
 
 ### 🧠 Quiz App
 - Dynamic questions system  
