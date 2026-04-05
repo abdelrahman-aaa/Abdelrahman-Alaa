@@ -30,6 +30,35 @@
 ---
 
 ## 🚀 Featured Projects
+💬 E-Commerce App (Fresh Cart)
+
+🔗 Live Demo: [https://https://fresh-cart-ten-virid.vercel.app]
+🔗 GitHub: [(https://github.com/abdelrahman-aaa/Fresh-Cart)]
+
+📌 Description:
+A full-featured e-commerce web application that simulates a real-world shopping experience, allowing users to browse products, manage their cart and wishlist, and complete orders securely.
+
+---
+⚙️ Features:
+- Sign Up / Sign In
+- Reset Password / Change Password
+- Browse Products by Categories & Brands
+- Add to Cart & Wishlist
+- Checkout System & Orders
+- Update User Information
+- Add & Manage Addresses
+- Protected Routes (Middleware)
+- Loading & Error Handling
+---
+🛠 Tech Stack:
+- Next.js
+- Redux Toolkit
+- Tailwind CSS
+- Auth.js (NextAuth)
+- REST API Integration
+- Environment Variables
+
+---
 💬 Social Media App
 
 🔗 Live Demo:https://social-hub-app-iota.vercel.app -
