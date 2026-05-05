@@ -59,6 +59,38 @@ A full-featured e-commerce web application that simulates a real-world shopping 
 - Environment Variables
 
 ---
+💬 CRM Dashboard System
+
+🔗 Live Demo:https://plus-crm-phi.vercel.app/
+🔗 GitHub:https://github.com/abdelrahman-aaa/Plus-crm
+
+---
+📌 Description:
+Modern CRM dashboard for managing leads, deals, and customers with interactive analytics and clean UI. Built with Next.js and Redux Toolkit.
+
+---
+⚙️ Features:
+- Leads management (create, edit, update status)
+- Deals tracking with pipeline stages (New, Proposal, Won, Lost)
+- Customer management system
+- Interactive charts and analytics dashboard
+- Drag & drop functionality for leads (Kanban style)
+- Responsive and modern UI design
+- State management with Redux Toolkit
+- Dark/Light mode support
+
+---
+
+🛠 Tech Stack:
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Redux Toolkit
+- shadcn/ui
+
+---
+
 💬 Social Media App
 
 🔗 Live Demo:https://social-hub-app-iota.vercel.app -
